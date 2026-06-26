@@ -13,7 +13,7 @@ app = Flask(__name__)
 #  ⚙️  الإعدادات — عدّل هذه القيم فقط
 # ============================================================
 
-ACCESS_TOKEN    = "EAAMgygHsVm8BR5Vv7GHIeZCSsRlHxKvvZAEOuiiuR4efkUSCzKIZC76yahHEoDbmO7igwc3ZB92rSmyZAjuVZCDASt2GJqZCiJxm9PkZCQ1SNq6jxwmpg2SDmWZCVDZCUhMHNmCAgZAHfYSf7EpZAjJhEFIypVt1IU5QjUO9OWi3fjm2ZB0eLDZCe69SwwZAfccW28NmAjOwWOZAeZCSHEGUGKZAdEkxkk4GRdOwdkXEmhceSdh0Mbi6oirZAey73G4Opn156Hj5KosuFVxjt5oa0XS4Hlo8UwtMsd8"
+ACCESS_TOKEN    = "pHKhvTU7y9M7OlEIDDiJUBolgZBK6Nlxqm255wEuzeAeMLEoMOCT3pCpIdTMnF9me7NjUvLlxNMU"
 PHONE_NUMBER_ID = "1249901378202203"
 VERIFY_TOKEN    = "albudayia_verify_2024"
 MANAGER_PHONE   = "966554803840"
